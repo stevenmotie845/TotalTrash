@@ -1,6 +1,6 @@
-# TotalTrash v1.0.0 🗑️✨
+# TotalTrash v2.0.0 🗑️✨
 
-**TotalTrash** is a lightweight macOS menu bar utility that automatically cleans junk files off your external drives the moment you plug them in — no more `.DS_Store` and `Thumbs.db` clutter showing up on other people's computers, USB sticks, or SD cards.
+**TotalTrash** is a lightweight macOS menu bar utility that automatically cleans junk files off your external drives/usb drive no more`.DS_Store` and `Thumbs.db` clutter showing up on external drives, USB sticks, or SD cards.
 
 This is the first public release.
 
