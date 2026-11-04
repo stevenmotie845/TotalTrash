@@ -4,6 +4,15 @@
 
 This is the first public release.
 
+## Screenshots ##
+
+<img width="1012" height="744" alt="TotalTrash_settings" src="https://github.com/user-attachments/assets/bd9e234e-67d1-4fb6-af68-eff14071752a" />
+<img width="376" height="630" alt="TotalTrash_menubar" src="https://github.com/user-attachments/assets/52a65dce-a64f-4655-bc5f-b19c08b67ded" />
+<img width="1012" height="744" alt="TotalTrash_Dashboard" src="https://github.com/user-attachments/assets/9902f16b-9b48-4e05-b918-513c36d40cbe" />
+<img width="1012" height="744" alt="TotalTrash_activity_log" src="https://github.com/user-attachments/assets/2eafe65f-ba4c-4512-902c-30717fda9804" />
+<img width="1012" height="744" alt="TotalTrash_about" src="https://github.com/user-attachments/assets/22f9e930-f010-4854-9192-8b055d44dacc" />
+
+
 ---
 
 ## ✨ Features
